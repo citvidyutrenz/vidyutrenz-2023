@@ -127,7 +127,7 @@ export const Banner = () => {
                   backgroundClip: "text",
                   color: "transparent",
                   fontFamily:"Voice In My Head",
-                  letterSpacing: "0.15 em"// or any value that suits your design
+                  letterSpacing: "0.15em"// or any value that suits your design
 
 
                 }}
